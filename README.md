@@ -1,8 +1,8 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-#  NAME:
-# REGISTER NUMBER:
-# DEPARTMENT:
-# YEAR:
+#  NAME: MOHAMED RIDWAN A
+# REGISTER NUMBER: 212223110030
+# DEPARTMENT: CSE IOT
+# YEAR: III
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
